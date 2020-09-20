@@ -37,7 +37,7 @@ Begin
   upMsg := '|CL|DFsec_upgrade.ans| |PA';
 
   // message settings
-  msgFile    := '/mystic/text/your_upgraded_mail.ans'
+  msgFile    := '/mystic/themes/default/text/your_upgraded_mail.ans'  //updated for newer version of Mystic (BP)
   baseID     := 1
   fromName   := 'MeaTLoTioN'
   toName     := handle
